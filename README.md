@@ -1,1 +1,1 @@
-# CSA5174-Cryptography-and-network-security
+# CSA5174-CNS
